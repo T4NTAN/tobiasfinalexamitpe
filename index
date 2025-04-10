@@ -1,0 +1,55 @@
+<DOCTYPE html>
+<body>
+<head>
+<title>Student Registration Form</title>
+<style>
+body{
+text align-center;
+background-color: Yellow;
+}
+
+h1{
+font-size: 35;
+}
+
+form{
+border-radius: 100px;
+border-align: center;
+}
+
+</style>
+<head>
+
+<body>
+
+<form>
+<center>
+
+<h1>Student Registration Form</h1>
+
+Student ID: <Input id ="Id Number"><Br><Br>
+
+First Name: <Input id ="First Name"><Br><Br>
+
+Last Name: <Input id ="Last Name"><Br><Br>
+
+Course: <Input type ="text"></Input><Br><Br>
+
+Birth Date: <Input type ="Date"></Input><Br><Br>
+
+Mobile Number: <Input type ="Number"></Input><Br><Br>
+
+User Name: <Input type ="Text"></Input><Br><Br>
+
+Password: <Input type ="Password"></Input><Br><Br>
+
+<a href ="HOMEPAGE.html"<Button onclick ="Register()">Register</Button>
+
+<Script>
+function register(){
+
+}
+</form>
+</center>
+</body>
+</head>
